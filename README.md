@@ -1,6 +1,6 @@
-### Hi there I'm Chengliting 👋 
+### Hi there, I'm Chengliting, and also you can call me Hazel. 👋 
 
-As an experienced front-end developer, I am passionate about creating beautiful, responsive, and user-friendly web applications. With five years of experience under my belt, I have honed my skills in HTML, CSS, and JavaScript, and have worked with various technologies like React, Vue and Mini Program.
+As an experienced front-end developer, I am passionate about creating beautiful, responsive, and user-friendly web applications. I have honed my skills in HTML, CSS, and JavaScript, and have worked with various technologies like React, Vue and Mini Program.
 
 ## My key skills include:
 - Developing responsive and intuitive interfaces using modern front-end frameworks and libraries.
